@@ -22,6 +22,3 @@ and provides human-like interaction.
 - **Database (optional):** MySQL / SQLite for storing chat history  
 - **Tools:** Git, GitHub  
 
----
-
-## 📂 Project Structure
